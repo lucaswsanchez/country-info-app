@@ -2,14 +2,6 @@
 
 This is a full stack project that uses NestJS for the backend and React for the frontend.
 
-## Project Structure
-
-/country-info-app
-│
-├── /countryapp-backend # Source code for the backend (NestJS)
-│
-└── /countryapp-frontend # Source code for the frontend (React)
-
 ## Prerequisites
 
 Make sure you have the following installed:
