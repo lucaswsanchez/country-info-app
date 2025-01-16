@@ -15,6 +15,7 @@ Make sure you have the following installed:
 ### Cloning the Repository
 
 git clone https://github.com/YOUR_USERNAME/country-info-app.git
+
 cd country-info-app
 
 ### Backend Setup (NestJS)
@@ -30,8 +31,11 @@ npm install
 3. Create a `.env` file in the backend folder and configure the necessary variables:
 
 NAGER_API_URL=https://date.nager.at/api/v3
+
 COUNTRIES_NOW_API_URL=https://countriesnow.space/api/v0.1
+
 CACHE_TTL=3600
+
 CACHE_MAX_ITEMS=100
 
 4. To start the backend server, run:
